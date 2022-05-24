@@ -12,7 +12,7 @@ googleAnalytics = ""
     accent = "green"
     showBorder = true
     backgroundColor = "white"
-    font = "-apple-system" #"Raleway"  # should match the name on Google Fonts! -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, Liberation Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji
+    font = "Raleway"  # should match the name on Google Fonts! -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, Liberation Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji
     highlight = true
     copyright = "Сервисный центр Alkor. Все права защищены."
     highlightStyle = "default"
@@ -32,16 +32,6 @@ googleAnalytics = ""
     weight = 1
 
 [[menu.icon]]
-    url = "https://github.com/username/"
-    name = "fab fa-github"
-    weight = 2
-
-[[menu.icon]]
-    url = "https://twitter.com/username/"
-    name = "fab fa-twitter"
-    weight = 3
-
-[[menu.icon]]
     url = "https://vk.com/alkorservice"
     name = "fab fa-vk"
-    weight = 4
+    weight = 2
